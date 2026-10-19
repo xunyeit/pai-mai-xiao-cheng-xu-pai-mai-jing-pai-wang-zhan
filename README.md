@@ -1,6 +1,6 @@
 <div align="center">
 
-![拍卖小程序拍卖竞拍网站](img/0.png)
+<img src="img/0.png" width="360" alt="拍卖小程序拍卖竞拍网站" />
 
 # 拍卖小程序拍卖竞拍网站
 
